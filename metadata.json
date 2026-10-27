@@ -1,0 +1,10 @@
+{
+  "name": "دليلي السياحي - رفيق السائح والأماكن القريبة",
+  "description": "تطبيق سياحي تفاعلي ذكي لاكتشاف أفضل المعالم السياحية والأنشطة والخدمات المتوفرة في المنطقة وحساب المسافات والتنقل السهل.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
